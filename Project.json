@@ -1,5 +1,24 @@
 [
     {
+        "id": 1,
+        "title": "StackAura-websoltions",
+        "description": "StackAura is a web solutions platform designed to help businesses establish a strong online presence.",
+        "image": "https://images2.imgbox.com/73/e9/cH0PKgPU_o.png",
+        "github": "",
+        "live": "https://www.stackaura.in/",
+        "tags": ["React",  "Tailwind"]
+      },
+      {
+        "id": 2,
+        "title": "Movies-database And Search",
+        "description": "The Movies Database and Search Web App is a platform that allows users to search and explore movies easily.",
+        "image": "https://images2.imgbox.com/ff/26/KQVKXKlg_o.png",
+        "github": "https://github.com/Rakshit-027/Movies-database-system",
+        "live": "https://movies.stackaura.in/",
+        "tags": ["React",  "Tailwind"]
+      },
+
+      {
       "id": 3,
       "title": "MeCart",
       "description": "A full-featured e-commerce platform built with React js",
@@ -16,25 +35,9 @@
       "github": "https://github.com/Rakshit-027/Social-Media-Dashboard",
       "live": "https://images2.imgbox.com/0d/0c/Q2NmidQh_o.png",
       "tags": ["React", "Firebase", "Tailwind"]
-    },
-    {
-      "id": 1,
-      "title": "StackAura-websoltions",
-      "description": "StackAura is a web solutions platform designed to help businesses establish a strong online presence.",
-      "image": "https://images2.imgbox.com/73/e9/cH0PKgPU_o.png",
-      "github": "",
-      "live": "https://www.stackaura.in/",
-      "tags": ["React",  "Tailwind"]
-    },
-    {
-        "id": 2,
-        "title": "Movies-database And Search",
-        "description": "The Movies Database and Search Web App is a platform that allows users to search and explore movies easily.",
-        "image": "https://images2.imgbox.com/ff/26/KQVKXKlg_o.png",
-        "github": "https://github.com/Rakshit-027/Movies-database-system",
-        "live": "https://movies.stackaura.in/",
-        "tags": ["React",  "Tailwind"]
-      }
+    }
+   
+    
     
   ]
   
