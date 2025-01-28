@@ -8,8 +8,28 @@
         "live": "https://www.stackaura.in/",
         "tags": ["React",  "Tailwind"]
       },
+
       {
         "id": 2,
+        "title": "Fudify-innovation",
+        "description": "A modern crowdfunding web app built with React.js, empowering startup founders to showcase their ideas, raise funds securely, and connect with a supportive community. The platform features real-time funding progress, user-friendly dashboards, and social sharing to maximize visibility.",
+        "image": "https://images2.imgbox.com/52/66/cEELZ7L3_o.png",
+        "github": "https://github.com/Rakshit-027/Fundify-v2",
+        "live": "https://fundify-innovate.netlify.app/",
+        "tags": ["React",  "Tailwind","typescript","nodejs","Shadcn-ui"]
+      },
+      {
+        "id": 3,
+        "title": "MeCart",
+        "description": "A full-featured e-commerce platform built with React js",
+        "image": "https://images2.imgbox.com/58/fe/djMjvlbl_o.png",
+        "github": "https://github.com/Rakshit-027/MeCart",
+        "live": "https://ecom.stackaura.in/",
+        "tags": ["React", "MongoDB"]
+      },
+
+      {
+        "id": 4,
         "title": "Movies-database And Search",
         "description": "The Movies Database and Search Web App is a platform that allows users to search and explore movies easily.",
         "image": "https://images2.imgbox.com/ff/26/KQVKXKlg_o.png",
@@ -18,17 +38,9 @@
         "tags": ["React",  "Tailwind"]
       },
 
-      {
-      "id": 3,
-      "title": "MeCart",
-      "description": "A full-featured e-commerce platform built with React js",
-      "image": "https://images2.imgbox.com/58/fe/djMjvlbl_o.png",
-      "github": "https://github.com/Rakshit-027/MeCart",
-      "live": "https://ecom.stackaura.in/",
-      "tags": ["React", "MongoDB"]
-    },
+      
     {
-      "id": 4,
+      "id": 5,
       "title": "Social Media Dashboard",
       "description": "A comprehensive dashboard for managing multiple social media accounts",
       "image": "https://images.unsplash.com/photo-1507925921958-8a62f3d1a50d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
